@@ -1,0 +1,34 @@
+{
+  "id": "9d595149-b3c4-4c44-858a-f6589f69e658",
+  "name": "Uninvoiced receipts",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "A list will be created, consisting of the lines of purchase receipts that are not invoiced. The list will contain the columns Posting date, Document number, Order number, Vendor Number, Vendor Name, Type, Number, Description, Unit of measure code, Quantity, Invoiced quantity, Received Quantity, Non-invoiced quantity. There will be a filtering option on all the above columns.",
+  "description": "A list will be created, consisting of the lines of purchase receipts that are not invoiced. The list will contain the columns Posting date, Document number, Order number, Vendor Number, Vendor Name, Type, Number, Description, Unit of measure code, Quantity, Invoiced quantity, Received Quantity, Non-invoiced quantity. There will be a filtering option on all the above columns.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://kvsdev.dev.navertica.com/BC?tenant=default",
+  "logo": "res/KVS.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "20.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+
+  
+}
